@@ -2,5 +2,8 @@ numpy
 pickle-mixin
 streamlit
 streamlit-option-menu
+torch
+torchvision
+pillow
 scikit-learn
 protobuf==3.20.1
