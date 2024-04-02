@@ -2,6 +2,7 @@ numpy
 pickle-mixin
 streamlit
 streamlit-option-menu
+opencv-python
 torch
 torchvision
 pillow
