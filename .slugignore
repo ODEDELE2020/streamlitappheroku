@@ -1,0 +1,15 @@
+# Ignore cache directories
+__pycache__
+
+# Potentially large static directories
+streamlit/static/static/media
+streamlit/static/static/js
+
+# Ignore potential package folders
+tornado/
+jsonschema/
+scipy/
+
+# You can add more specific patterns here
+# For example, to ignore all files ending in .jpg:
+*.jpg
