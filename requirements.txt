@@ -1,5 +1,6 @@
 numpy
 pickle-mixin
+easyocr
 streamlit
 streamlit-option-menu
 opencv-python
